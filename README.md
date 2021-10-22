@@ -3,10 +3,10 @@
  Hi there! 👋  I'm Eduardo 👨‍💻
 </h1>
 
-<h4 align='left'>
+<h5 align='left'>
   A Software Engineer with strong problem solving skills who learns and adapts quickly. I enjoy finding solutions to new challenges
-  and I have experience working and studying in multicultural environments in different countries like Canada and Ireland.
-</h4>
+  and I have experience working and studying in multicultural environments in different countries like Canada and Ireland. In my free time I like to practice sports and travelling. 
+</h5>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/edwardmartins/">
