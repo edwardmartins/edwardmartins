@@ -28,9 +28,5 @@
 
 <h3 align='center'>
   <p>📈 My GitHub Stats:</p>
- 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=edwardmartins&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&hide_rank=true" />
- 
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardmartins&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=6"/>
- 
 </h3>
