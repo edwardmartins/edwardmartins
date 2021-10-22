@@ -5,7 +5,7 @@
 
 <p align='left'>
   A Software Engineer with strong problem solving skills who learns and adapts quickly. I enjoy finding solutions to new challenges
-  and I have experience working and studying in multicultural environments in different countries like Canada and Ireland. In my free time I like to practice sports and travelling. 
+  and I have experience working and studying in multicultural environments in different countries like Canada and Ireland. In my free time I like to practice sports and travel. 
 </p>
 
 <p align='center'>
