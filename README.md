@@ -8,7 +8,7 @@
   and I have experience working and studying in multicultural environments in different countries like Canada and Ireland. In my free time I like to practice sports and travel. 
 </p>
 
-<p align='center'>
+<p align='center' style="display:flex; flex-direction: row;">
   <a href="https://github.com/edwardmartins?tab=repositories" target="blank">
    <img width="130em" src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/edwardmartins/Projects"/>
  </a> &nbsp;&nbsp;
